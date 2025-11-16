@@ -26,7 +26,7 @@ Le projet à été réalisé dans le cadre de la Licence 3 Informatique des Syst
 
 ## 🛠️ Technologies et outils
 - **Langage :** Python  
-- **Librairies :** Pygame (2D), PyOpenGL / Panda3D / moderngl (3D)  
+- **Librairies :** Pygame (2D), Ursina 
 - **IDE :** Visual Studio Code  
 - **Ressources :** sprites, modèles 3D simples, assets audio  
 
