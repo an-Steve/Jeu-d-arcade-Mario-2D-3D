@@ -30,6 +30,3 @@ Le projet à été réalisé dans le cadre de la Licence 3 Informatique des Syst
 - **IDE :** Visual Studio Code  
 - **Ressources :** sprites, modèles 3D simples, assets audio  
 
----
-
-## 📂 Structure du projet
